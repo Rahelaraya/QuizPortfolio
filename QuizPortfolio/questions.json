@@ -1,0 +1,55 @@
+{
+  "categories": [
+    {
+      "name": "Pop Culture",
+      "questions": [
+        {
+          "question": "Who is known as the King of Pop?",
+          "options": [ "Michael Jackson", "Elvis Presley", "Freddie Mercury", "Prince" ],
+          "answer": "Michael Jackson"
+        },
+        {
+          "question": "Which movie features the character Jack Sparrow?",
+          "options": [ "Pirates of the Caribbean", "The Hobbit", "Harry Potter", "Star Wars" ],
+          "answer": "Pirates of the Caribbean"
+        }
+      ]
+    },
+    {
+      "name": "History",
+      "questions": [
+        {
+          "question": "Who was the first President of the United States?",
+          "options": [ "George Washington", "Abraham Lincoln", "Thomas Jefferson", "John Adams" ],
+          "answer": "George Washington"
+        },
+        {
+          "question": "In which year did the Titanic sink?",
+          "options": [ "1912", "1905", "1918", "1923" ],
+          "answer": "1912"
+        }
+      ]
+    },
+    {
+      "name": "Technology",
+      "questions": [
+        {
+          "question": "What does 'HTML' stand for?",
+          "options": [
+            "HyperText Markup Language",
+            "HighText Machine Language",
+            "HyperText Managing Links",
+            "HighTime Machine Learning"
+          ],
+          "answer": "HyperText Markup Language"
+        },
+        {
+          "question": "Which company created the iPhone?",
+          "options": [ "Apple", "Samsung", "Google", "Microsoft" ],
+          "answer": "Apple"
+        }
+      ]
+    }
+  ]
+
+}
